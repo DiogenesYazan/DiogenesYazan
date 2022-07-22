@@ -71,3 +71,4 @@
 <img href="https://raw.githubusercontent.com/DiogenesYazan/DiogenesYazan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
