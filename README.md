@@ -62,11 +62,8 @@
 
 ###
 ![](https://komarev.com/ghpvc/?username=DiogenesYazan&label=PROFILE+VIEWS)
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/76189529?v=4"  />
-
 ###
-
 <br clear="both">
 
-###
+
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
