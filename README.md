@@ -4,6 +4,7 @@
 
 <p align="left">Meu nome é Diogenes Yuri, sou apenas um curioso. Sempre buscando mais conhecimento sobre várias áreas, atualmente estou trabalhando como Técnico em Eletrônica, mas busco experiência no setor da programação. Sempre estou em busca de aprender nem que seja o básico sobre uma linguagem, lib, framework ou ferramenta.<br><br>Me aventuro pelo mundo do design também, estou justamente aprendendo o mundo de UI & UX utilizando o Figma. Fora essas e outras áreas do meu interesse são DevOps, Game Design tanto com Unity quanto Unreal, Mobile Developer, e entre tantos campos que aprendendo sobre.<br><br>Sou mais do tipo, "Se não sei, aprendo", o importante é não ver dificuldade.</p>
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 ###
 
 <div align="center">
