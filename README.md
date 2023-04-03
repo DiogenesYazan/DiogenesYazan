@@ -64,6 +64,12 @@
   <a href="https://stackoverflow.com/users/16248317/yazan-the-god" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  
+  </a>
+  <a href="https://replit.com/@YazanTheGod" target="_blank">
+    <img src="https://blog.replit.com/images/new_logo/logotype.png" height="40" alt="replit logo"  />
+  </a>
+  
 </div>
 
 ###
