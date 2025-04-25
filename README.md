@@ -1,5 +1,14 @@
  # 💫 Olá 😊, Sou Diogenes Yazan, Dev Jr.:
-Meu nome é Diogenes Yuri, sou apenas um curioso. Sempre buscando mais conhecimento sobre várias áreas, atualmente estou trabalhando como Técnico em Eletrônica, mas busco experiência no setor da programação. Sempre estou em busca de aprender nem que seja o básico sobre uma linguagem, lib, framework ou ferramenta.<br><br>Me aventuro pelo mundo do design também, estou justamente aprendendo o mundo de UI & UX utilizando o Figma. Fora essas e outras áreas do meu interesse são DevOps, Game Design tanto com Unity quanto Unreal, Mobile Developer, e entre tantos campos que aprendendo sobre.<br><br>Sou mais do tipo, "Se não sei, aprendo", o importante é não ver dificuldade.
+Olá! Meu nome é Diógenes Yuri e sou estudante de Engenharia de Software pela Anhanguera/Unopar.
+
+Atualmente trabalho como Técnico em Eletrônica, mas minha paixão está na área da programação. Sou movido pela curiosidade e pela vontade constante de aprender — gosto de explorar novas linguagens, bibliotecas, frameworks e ferramentas, mesmo que seja para entender o básico. Acredito que o importante é nunca parar de aprender. Se eu não sei, eu aprendo.
+
+Tenho me dedicado bastante ao desenvolvimento web com React, além de curtir explorar Game Design com Unity (usando C#) e, às vezes, desenvolvimento mobile com Flutter.
+E costumo usar bastante Firebase e MongoDB nos projetos. Também tenho conhecimentos básicos em MySQL. 
+
+No backend, estou fazendo um curso completo pela Alura em parceria com a Oracle. Além disso, concluí o curso de Programador Web e um curso de JavaScript pelo IFRS (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul), e um curso introdutório à programação pela EBAC.
+
+Sigo em busca de oportunidades na área de desenvolvimento para colocar em prática meus conhecimentos e crescer profissionalmente.
 
 
 ## 🌐 Socials:
