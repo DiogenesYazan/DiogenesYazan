@@ -1,5 +1,5 @@
  # 💫 Olá 😊, Sou Diogenes Yazan, Dev Jr.:
-Olá! Meu nome é Diógenes Yuri e sou estudante de Engenharia de Software pela Anhanguera/Unopar.
+Olá! Meu nome é Diógenes Yuri e sou estudante de Engenharia de Software pela Estácio.
 
 Atualmente trabalho como Técnico em Eletrônica, mas minha paixão está na área da programação. Sou movido pela curiosidade e pela vontade constante de aprender — gosto de explorar novas linguagens, bibliotecas, frameworks e ferramentas, mesmo que seja para entender o básico. Acredito que o importante é nunca parar de aprender. Se eu não sei, eu aprendo.
 
