@@ -15,7 +15,7 @@ Sigo em busca de oportunidades na área de desenvolvimento para colocar em prát
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diognes_yazan/?hl=pt-br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogenesyuri/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16248317/yazan-the-god) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCihTJT0za6Cu3A-JcfaTl7g) 
 
 ## 🌐 Portfólio:
-[🚀Clica aqui e veja](https://diognesyazan.xyz/)
+[🚀Clica aqui e veja](https://diogenesyuri.works/)
 
 # 💻 Tech Stack:
   <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
