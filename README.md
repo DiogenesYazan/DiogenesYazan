@@ -1,14 +1,20 @@
  # 💫 Olá 😊, Sou Diogenes Yazan, Dev Jr.:
-Olá! Meu nome é Diógenes Yuri e sou estudante de Engenharia de Software pela Estácio.
+**Olá! Meu nome é Diógenes Yuri e sou estudante de Engenharia de Software pela Estácio.**
 
-Atualmente trabalho como Técnico em Eletrônica, mas minha paixão está na área da programação. Sou movido pela curiosidade e pela vontade constante de aprender — gosto de explorar novas linguagens, bibliotecas, frameworks e ferramentas, mesmo que seja para entender o básico. Acredito que o importante é nunca parar de aprender. Se eu não sei, eu aprendo.
+Sou ex-Técnico em Eletrônica e atualmente atuo como **Desenvolvedor Júnior na Nutrition**, onde trabalho principalmente com **Oracle APEX** e seu ecossistema de tecnologias. Minha rotina envolve desenvolvimento de aplicações web, criação de schemas de banco de dados, SQL e PL/SQL avançado, além de integração de APIs e automações.
 
-Tenho me dedicado bastante ao desenvolvimento web com React, além de curtir explorar Game Design com Unity (usando C#) e, às vezes, desenvolvimento mobile com Flutter.
-E costumo usar bastante Firebase e MongoDB nos projetos. Também tenho conhecimentos básicos em MySQL. 
+Sou movido pela curiosidade e pela vontade constante de aprender — gosto de explorar novas linguagens, bibliotecas, frameworks e ferramentas. Acredito que o importante é nunca parar de aprender. **Se eu não sei, eu aprendo.**
 
-No backend, estou fazendo um curso completo pela Alura em parceria com a Oracle. Além disso, concluí o curso de Programador Web e um curso de JavaScript pelo IFRS (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul), e um curso introdutório à programação pela EBAC.
+**Minhas principais habilidades técnicas incluem:**
+- **Backend e Banco de Dados:** SQL avançado, PL/SQL, Oracle APEX, PostgreSQL, APIs REST
+- **DevOps e Infraestrutura:** Docker, Docker Compose, AWS, gerenciamento de servidores Linux
+- **Automação:** n8n, webhooks, CI/CD
+- **Frontend:** JavaScript, HTML/CSS, customização de UI/UX no APEX e Next.js
+- **Outras tecnologias:** Dart/Flutter (estou aprendendo flutter e ), Unity/C# (game development)
 
-Sigo em busca de oportunidades na área de desenvolvimento para colocar em prática meus conhecimentos e crescer profissionalmente.
+Além da experiência profissional, concluí cursos de **Programador Web** e **JavaScript pelo IFRS** (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul), um **curso completo de Backend pela Alura em parceria com a Oracle**, e um **curso introdutório à programação pela EBAC**.
+
+Sigo em busca de crescimento profissional, sempre explorando novas áreas como game development, mobile e design UI/UX com Figma.
 
 
 ## 🌐 Socials:
