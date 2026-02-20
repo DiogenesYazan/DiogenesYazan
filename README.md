@@ -65,9 +65,6 @@ Sigo em busca de crescimento profissional, sempre explorando novas áreas como g
 </picture>
 
 
-## 🏆 Copillot
-[![Codeium](https://codeium.com/badges/main)](https://codeium.com/profile/diogenes_yazan)
-
 ###
 ![](https://komarev.com/ghpvc/?username=DiogenesYazan&label=PROFILE+VIEWS)
 ###
